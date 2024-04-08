@@ -1,0 +1,142 @@
+Habitat: Park
+Name: Buddy Bear, Age: 1, Sex: female, Species: bear, Color: brown, Weight: 70.0, Birthday: 2023-09-01, UniqueID: BE_1874
+
+  // what I have in the terminal for the zoo population report. 
+My Zookeeper's Challenge!
+Choose to see the Zoo
+Enter the number of habitats in your zoo: 1
+
+Habitat #1
+Enter habitat name: Park
+Enter the number of animals in this habitat: 16
+
+Enter details for Animal #1
+Enter species: hyena
+Enter name: Benji
+Enter age: 8
+Enter sex: male
+Enter color: black
+Enter weight: 109
+
+Enter details for Animal #2
+Enter species: hyena
+Enter name: Jolly
+Enter age: 7
+Enter sex: female
+Enter color: brown
+Enter weight: 120
+
+Enter details for Animal #3
+Enter species: hyena
+Enter name: Ed
+Enter age: 9
+Enter sex: female
+Enter color: black
+Enter weight: 100
+
+Enter details for Animal #4
+Enter species: hyena
+Enter name: Bitter
+Enter age: 12
+Enter sex: male
+Enter color: Black and tan striped
+Enter weight: 108
+
+Enter details for Animal #5
+Enter species: Lion
+Enter name: Shallow
+Enter age: 8
+Enter sex: female
+Enter color: tan
+Enter weight: 200
+
+Enter details for Animal #6
+Enter species: lion
+Enter name: Tootsie
+Enter age: 2
+Enter sex: male
+Enter color: dark tan
+Enter weight: 276
+
+Enter details for Animal #7
+Enter species: lion
+Enter name: Kim
+Enter age: 21
+Enter sex: female
+Enter color: golden
+Enter weight: 450
+
+Enter details for Animal #8
+Enter species: lion
+Enter name: Tundra
+Enter age: 3
+Enter sex: male
+Enter color: tan and brown
+Enter weight: 150
+
+Enter details for Animal #9
+Enter species: tiger
+Enter name: Sonal
+Enter age: 10
+Enter sex: female
+Enter color: gold and tan
+Enter weight: 300
+
+Enter details for Animal #10
+Enter species: tiger
+Enter name: samuel
+Enter age: 7
+Enter sex: male
+Enter color: black stripes
+Enter weight: 200
+
+Enter details for Animal #11
+Enter species: tiger
+Enter name: Amber
+Enter age: 9
+Enter sex: female
+Enter color: gold and tan
+Enter weight: 100
+
+Enter details for Animal #12
+Enter species: tiger
+Enter name: Cosmo
+Enter age: 10
+Enter sex: female
+Enter color: black stripes
+Enter weight: 298
+
+Enter details for Animal #13
+Enter species: bear
+Enter name: Odin
+Enter age: 6
+Enter sex: female
+Enter color: brown
+Enter weight: 120
+
+Enter details for Animal #14
+Enter species: bear
+Enter name: Pillow
+Enter age: 18
+Enter sex: male
+Enter color: black
+Enter weight: 230
+
+Enter details for Animal #15
+Enter species: bear
+Enter name: Paddington
+Enter age: 7
+Enter sex: male
+Enter color: black
+Enter weight: 120
+
+Enter details for Animal #16
+Enter species: bear
+Enter name: Buddy Bear
+Enter age: 1
+Enter sex: female
+Enter color: brown
+Enter weight: 70
+Zoo population saved to zooPopulation.txt
+
+Process finished with exit code 0
